@@ -13,7 +13,7 @@
 5.Calculated the data of scores by school spending, school type and school size.
 
 ### Results and Conclusion
-![Image](../pandas-challenge/Pics/Districk Summary).png
+![Image](https://github.com/YanqiuY/pandas-challenge/blob/main/Pics/District%20Summary.png)
 
 ## Draws two correct conclusions or comparisons from the calculations
 
